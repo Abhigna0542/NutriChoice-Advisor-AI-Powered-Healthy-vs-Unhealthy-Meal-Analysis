@@ -3,5 +3,4 @@ Numpy
 Pandas
 Scikit-learn
 Gunicorn
-pip install requests  # if not already installed
-pip freeze > requirements.txt
+requests
